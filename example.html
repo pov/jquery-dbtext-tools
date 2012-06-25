@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Test jQuery DbTextworks Form</title>
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+  <script src="jquery.dbtext_form.js"></script>
+  <script>
+	jQuery(document).ready(function(){
+		jQuery("#myform").dbtextSubmit({'debug': true});  
+	});   
+  </script>
+  
+  <form id="myform">
+	Name: <input type="text" name="fullname" />
+	Comment: <input type="text" name="comment" />
+	<input type="submit" />
+  </form>
+  
+</body>
+</html>
