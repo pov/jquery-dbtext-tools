@@ -1,5 +1,13 @@
-# jQuery.dbtext_form.js
+# jQuery.dbtext-tools.js
 
-Submits a form to a DB/Texworks database - commercial product of [Inmagic](http://www.inmagic.com).
+A number of tools for using jQuery with [Inmagic](http://www.inmagic.com) DB/Texworks database. 
+
+## jquery.dbtext_form.js
+
+Submits an html form to a DB/Textworks database as XML using WebPublisher
 
 See the comments in the javascript file for usage details.
+
+## jquery.dbtext_searchlinks.js
+
+Adds a number of links to the search results page in DB/Textworks. Currently you can add a permalink and/or an RSS link for the search.
