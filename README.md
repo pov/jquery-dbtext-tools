@@ -1,6 +1,6 @@
 # jQuery.dbtext-tools.js
 
-A number of tools for using jQuery with [Inmagic](http://www.inmagic.com) DB/Texworks database. 
+A number of tools for using jQuery with the proprietary [Inmagic](http://www.inmagic.com) DB/Texworks database. 
 
 ## jquery.dbtext_form.js
 
