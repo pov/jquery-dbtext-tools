@@ -12,4 +12,4 @@ See the comments in the javascript file for usage details.
 
 Adds a number of links to the search results page in DB/Textworks. Currently you can add a permalink and/or an RSS link for the search.
 
-Released under the MIT licence
+Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
