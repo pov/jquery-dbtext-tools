@@ -11,3 +11,5 @@ See the comments in the javascript file for usage details.
 ## jquery.dbtext_searchlinks.js
 
 Adds a number of links to the search results page in DB/Textworks. Currently you can add a permalink and/or an RSS link for the search.
+
+Released under the MIT licence
